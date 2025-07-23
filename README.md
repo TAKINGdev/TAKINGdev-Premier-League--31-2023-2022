@@ -1,3 +1,4 @@
+![Project Cover](COVER.png)
 # 🚀⚽ FOOTBALL LEAGUE TABLE ANALYSIS WITH PANDAS ⚽🚀
 
 ---
